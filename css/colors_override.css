@@ -1,0 +1,16 @@
+#header {
+  background-color: #9fb39f;
+  background-image: -moz-linear-gradient(top, #10400e 0%, #9fb39f 100%);
+  background-image: -ms-linear-gradient(top, #10400e 0%, #9fb39f 100%);
+  background-image: -o-linear-gradient(top, #10400e 0%, #9fb39f 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #10400e), color-stop(1, #9fb39f));
+  background-image: -webkit-linear-gradient(top, #10400e 0%, #9fb39f 100%);
+  background-image: linear-gradient(top, #10400e 0%, #9fb39f 100%);
+}
+
+
+
+
+
+
+
