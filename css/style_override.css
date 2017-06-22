@@ -1,0 +1,21 @@
+.circular {
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+    background: #e2eadb;
+    text-align: center;
+    line-height: 125%;
+}
+.circular-over {
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+    background: #F6F8F3;
+    text-align: center;
+    line-height: 125%;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
