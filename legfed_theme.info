@@ -5,7 +5,9 @@ core = 7.x
 version = 7.x
 stylesheets[all][] = css/layout_override.css
 stylesheets[all][] = css/colors_override.css
+stylesheets[all][] = css/style_override.css
 
+scripts[] = js/quicklink-btn.js
 
 regions[header] = Header
 regions[help] = Help
